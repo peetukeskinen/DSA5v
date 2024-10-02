@@ -36,17 +36,7 @@ The file `ECdataFinland.xlsx` contains all necessary data for the tool. Users ca
 
 ### Example
 
-To execute the tool with selected configurations, modify the parameters in the `defineDsaModel5.m` file as needed. Then pass the parameters structure to the `DSA5v.m` function for analysis.
+To execute the tool with selected configurations, modify the parameters in the `defineDsaModel5.m` file as needed and run the file. The selected parameter structure is passed to the `DSA5v.m` function for analysis.
 
-#### Parameter Selection Example:
-```matlab
-param.adjustment_plan_length = 7;  % Select 7-year adjustment plan
-param.sfa_method = 0;              % COM New Revised Assumption
-param.debt_sustainability_safeguard = 1;  % Apply Debt Sustainability Safeguard
-param.deficit_resilience_safeguard = 1;   % Apply Deficit Resilience Safeguard
-param.plotting = 1;                % Enable Plotting
-param.stochastic_samples = 5;      % 100,000 simulated paths
-param.plausibility_value = 8;      % 80% plausibility
-param.language = 1;                % English output
-param.stochastic_method = 2;       % Bootstrap Simulation
-param.save_results = 0;            % Do not save results
+### Contact
+For any inquiries or feedback, please contact peetu.keskinen@vtv.fi.
