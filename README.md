@@ -9,6 +9,7 @@ The tool is compatible with Windows 10 (64-bit) and MATLAB R2020b.
 ### Components Required
 To execute this MATLAB code, you'll need:
 
+0. **The Run File:**  `defineDsaModel5.m`
 1. **Main Function:** `runDsaModel5.m`
 2. **Helper Functions:**
    - `project_debt5v.m` - Projects debt paths considering yearly adjustments.
