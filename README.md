@@ -1,7 +1,7 @@
 # Debt Sustainability Analysis (DSA) Tool - Version 5
 
 ## Overview
-The Debt Sustainability Analysis (DSA) tool, now in its fifth version, is essential for debt ratio projections. An enhancement from version 4, this version incorporates all criteria from the reformed EU Fiscal Rules. It improves the analysis of debt sustainability, including new fiscal safeguards, as outlined by the European Commission. For context on the importance of these debt rules, see this [blog post](https://www.vtv.fi/en/blog/the-length-of-the-adjustment-plan-in-the-reformed-eu-debt-rules-is-of-great-importance-to-finland/).
+The Debt Sustainability Analysis (DSA) tool, now in its fifth version, is used for debt ratio projections. An enhancement from version 4, this version incorporates all criteria from the reformed EU Fiscal Rules. It improves the analysis of debt sustainability, including new fiscal safeguards, as outlined by the European Commission. For context on the importance of these debt rules, see this [blog post](https://www.vtv.fi/en/blog/the-length-of-the-adjustment-plan-in-the-reformed-eu-debt-rules-is-of-great-importance-to-finland/).
 
 ### Compatibility
 The tool is compatible with Windows 10 (64-bit) and MATLAB R2020b.
